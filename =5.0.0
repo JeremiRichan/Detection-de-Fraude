@@ -1,0 +1,2 @@
+Requirement already satisfied: neo4j in /home/jeremi/Environement/lib/python3.13/site-packages (6.2.0)
+Requirement already satisfied: pytz in /home/jeremi/Environement/lib/python3.13/site-packages (from neo4j) (2026.2)
