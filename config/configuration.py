@@ -1,8 +1,8 @@
 
 # ── Connexion Neo4j ──────────────────────────────────────────────
-URI_NEO4J                           = "neo4j://127.0.0.1:7687"
+URI_NEO4J                           = "neo4j+s://abb95fd5.databases.neo4j.io"
 UTILISATEUR_NEO4J                   = "neo4j"
-MOT_DE_PASSE_NEO4J                  = "fraude123"
+MOT_DE_PASSE_NEO4J                  = "KgQGcjX5WWMbY9OnXys_dpgqben5F9ACJze-f4zzoVI"
 NOM_BASE_NEO4J                      = "neo4j"
 
 # ── Phase 1 — Ingestion ──────────────────────────────────────────

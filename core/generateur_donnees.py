@@ -1,15 +1,3 @@
-# ================================================================
-#  GÉNÉRATEUR DE DONNÉES DYNAMIQUES
-#  Génère 1000 entités et leurs relations de façon réaliste
-#  pour alimenter le pipeline de détection de fraude.
-#
-#  Patterns simulés :
-#  - Entités normales (75%)
-#  - Entités suspectes isolées (15%)
-#  - Réseaux de fraude organisés en cliques (10%)
-#  - Identités synthétiques (attributs partagés)
-# ================================================================
-
 import logging
 import random
 import string
